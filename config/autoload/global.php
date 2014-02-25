@@ -13,4 +13,5 @@
 
 return array(
     // ...
+    'db' => array('foo => 'bar')
 );
